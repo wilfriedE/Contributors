@@ -1,6 +1,0 @@
-*.pyc
-# don't include third-party dependencies.
-lib
-venv
-!lib/README.md
-.DS_Store
